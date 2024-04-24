@@ -27,6 +27,6 @@ This project demonstrates the following steps involved in building a data engine
 
 For detailed instructions on setting up and running this project, please refer to the provided video tutorial. The code for this project can be found at the following GitHub repository:
 
-* **GitHub Repository:** [https://github.com/darshilparmar/dataengineering-youtube-analysis-project](https://github.com/darshilparmar/dataengineering-youtube-analysis-project)
+* **GitHub Repository:** [https://github.com/darshilparmar/dataengineering-youtube-analysis-project](https://github.com/darshilparmar/)
 
 This project provides a practical example of using Apache Spark for data engineering tasks, specifically focused on analyzing cricket data from the IPL. 
