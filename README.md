@@ -1,5 +1,8 @@
 ## IPL Data Analysis - Apache Spark End-to-End Project
 
+![Architecture](https://github.com/tejasjbansal/Apache-Spark-End-To-End-Data-Engineering-Project/assets/56173595/77afcc7e-8585-46f9-a162-baef7f519c4a)
+
+
 This project outlines an end-to-end data engineering pipeline for analyzing Indian Premier League (IPL) data using Apache Spark on Databricks. The data covers all IPL seasons until 2017 and is retrieved from the following source:
 
 * **Data Source:** IPL Data Till 2017: [https://data.world/raghu543/ipl-data-till-2017](https://data.world/raghu543/ipl-data-till-2017)
